@@ -12,13 +12,6 @@ There are n soldiers standing in a circle waiting to be executed. They are numbe
 [![Josephus13-PO2.png](https://i.postimg.cc/s2Kv1XcQ/Josephus13-PO2.png)](https://postimg.cc/Ffd9BhwN)
 
 
-## Roadmap
-
-- Additional browser support
-
-- Add more integrations
-
-
 ## Installation
 
 https://github.com/Yashshukla11/Josephus-Problem-
