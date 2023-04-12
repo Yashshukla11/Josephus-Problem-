@@ -10,6 +10,7 @@ The algorithm to solve this problem involves converting the number of soldiers, 
 
 
 ## Flow Chart
+Let there be 47 soldiers-->
 
 [![flow.jpg](https://i.postimg.cc/fbxhPHGX/flow.jpg)](https://postimg.cc/rdFb09FF)
 
