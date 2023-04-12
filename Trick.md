@@ -11,7 +11,7 @@ The algorithm to solve this problem involves converting the number of soldiers, 
 
 ## Flow Chart
 
-[![flow.jpg](https://i.postimg.cc/fbxhPHGX/flow.jpg)](https://postimg.cc/rdFb09FF)
+[![Screenshot-2023-04-12-085737.jpg](https://i.postimg.cc/43wnCh92/Screenshot-2023-04-12-085737.jpg)](https://postimg.cc/sBQ37xK5)
 
 ## Conclusion 
 In summary, to solve this problem, we convert the number of soldiers to binary code, move the first digit from the left to the rightmost place, and then convert the resulting binary code back to the original number form. This algorithm provides a simple and efficient way to determine the position of the last surviving soldier in the convoy.
